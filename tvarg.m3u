@@ -21,7 +21,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 ---
 
 # Deportes
-#EXTINF:-1 tvg-id="espnpremium.ar" tvg-name="ESPN Premium" group-title="Deportes" tvg-logo="https://files.catbox.moe/e4pusa.png",ESPN Premium
+#EXTINF:-1 tvg-id="espnpremium.ar" tvg-name="ESPN Premium" group-title="Deportes" tvg-logo="https://files.catbox.moe/q8cj7h.png",ESPN Premium
 https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=01a48080f4ee61a38a7cbf97fd56e3a34e99d071-d7-1774728006-1774710006
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports" group-title="Deportes" tvg-logo="Link del logo",TNT Sports
 https://agvyby.fubohd.com/tntsports/mono.m3u8?token=cd4b3e1c95deec23b20098f33d82a3b35a1285a4-76-1774728141-1774710141
