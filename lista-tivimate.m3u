@@ -22,13 +22,13 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 # Deportes
 #EXTINF:-1 tvg-id="espnpremium.ar" tvg-name="ESPN Premium" group-title="Deportes" tvg-logo="https://files.catbox.moe/q8cj7h.png",ESPN Premium
-https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=01a48080f4ee61a38a7cbf97fd56e3a34e99d071-d7-1774728006-1774710006
+https://51a1.streameasthd.net/global/espnpremium/index.m3u8?token=103192166def1c95e5f4e732f2c6065bcd7f156a-82-1774773905-1774719905&ip=190.104.36.189
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-name="TNT Sports" group-title="Deportes" tvg-logo="https://files.catbox.moe/p36d9r.png",TNT Sports
 https://98ca2.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.104.36.189&token=3fde4badff71a4918edbd437f3149bef5233c069-72-1774773818-1774719818
 #EXTINF:-1 tvg-id="tycsports.ar" tvg-name="Tyc Sports" group-title="Deportes" tvg-logo="Link del logo",Tyc Sports
 https://agvyby.fubohd.com/tycinternacional/mono.m3u8?token=491b0d6b463258560e3015de9f1a13a90f48b90b-24-1774728261-1774710261
 #EXTINF:-1 tvg-id="directvsports.ar" tvg-name="DirecTV Sports" group-title="Deportes" tvg-logo="Link del logo",DirecTV Sports
-https://qzv4jmsc.fubohd.com/dsports/mono.m3u8?token=eee1fb58a3684cb393c665cbdcaf03a6c4175605-bb-1774726673-1774708673
+https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.104.36.189&token=218c7e34deeeee030be842f25b79b41703c3d34e-70-1774773970-1774719970
 
 ---
 
