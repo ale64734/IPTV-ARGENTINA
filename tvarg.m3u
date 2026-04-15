@@ -76,3 +76,5 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 # Otros/Extras
 #EXTINF:-1 tvg-id="0937" tvg-name="Telemax" group-title="Otros/Extras" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="0937" tvg-name="Bayres TV" group-title="Otros/Extras" tvg-logo="logo",Bayres TV
+Link
