@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="canal1" tvg-name="Disney+" tvg-logo="https://link-del-logo.png" group-title="Deportes",Disney+
-https://pecdl1.streameasthd.net/global/espn/index.m3u8?token=c4b08210c6de743d218db21ad76f5ac10d8cd856-c2-1776322747-1776268747&ip=190.104.36.189
+https://doc1.streameasthd.net/global/disney1/index.m3u8?token=3ae6a7c82430aed98d20c7462a60d2832c4f6807-5c-1776322928-1776268928&ip=190.104.36.189
 
 #EXTINF:-1 tvg-id="canal2" tvg-name="Disney+ 2" tvg-logo="https://link-del-logo.png" group-title="Deportes",Disney+ 2
 http://link-del-stream.com/stream2.m3u8
