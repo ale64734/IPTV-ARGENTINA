@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canal1" tvg-name="Canal 1" tvg-logo="https://link-del-logo.png" group-title="Entretenimiento",Canal 1
+#EXTINF:-1 tvg-id="canal1" tvg-name="Disney+" tvg-logo="https://link-del-logo.png" group-title="Deportes",Disney+
 http://link-del-stream.com/stream1.m3u8
 
-#EXTINF:-1 tvg-id="canal2" tvg-name="Canal 2" tvg-logo="https://link-del-logo.png" group-title="Deportes",Canal 2
+#EXTINF:-1 tvg-id="canal2" tvg-name="Disney+ 2" tvg-logo="https://link-del-logo.png" group-title="Deportes",Disney+ 2
 http://link-del-stream.com/stream2.m3u8
